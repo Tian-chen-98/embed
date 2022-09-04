@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10986a34-e61c-4e78-ba4d-af885cf04317" name="Changes" comment="Modify Question and User in dao">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tianchen/embed/entity/request/EmbedRequest.java" afterDir="false" />
+    <list default="true" id="10986a34-e61c-4e78-ba4d-af885cf04317" name="Changes" comment="Finish QuestionDao">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tianchen/embed/dao/QuestionDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tianchen/embed/dao/QuestionDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tianchen/embed/entity/db/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tianchen/embed/entity/db/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tianchen/embed/entity/response/EmbedResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tianchen/embed/entity/response/EmbedResponse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1662246106425</updated>
       <workItem from="1662246107836" duration="2690000" />
-      <workItem from="1662251864061" duration="3562000" />
+      <workItem from="1662251864061" duration="4183000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1662246144836</created>
@@ -82,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662254129836</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Finish QuestionDao">
+      <created>1662255465369</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662255465369</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +109,7 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Add maven support" />
     <MESSAGE value="Modify Question and User in dao" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modify Question and User in dao" />
+    <MESSAGE value="Finish QuestionDao" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish QuestionDao" />
   </component>
 </project>
